@@ -112,7 +112,7 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
                 Expanded(
                   child: Container(),
                 ),
-                Text("Abdul Calculator"),
+                Text("Abdul Calculator App"),
                 Expanded(
                   child: Container(),
                 ),
